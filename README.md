@@ -116,7 +116,7 @@ gitpush_vendor/
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Power BI Dashboard shows(https://1drv.ms/u/c/55935B1FD7917DE9/IQDDlwoOVa3tQrTJIR9NjcuMAfdRmn7zKUmd7kOFeMX8Qx0?e=xBYaau):
+- [Power BI Dashboard shows](https://1drv.ms/u/c/55935B1FD7917DE9/IQDDlwoOVa3tQrTJIR9NjcuMAfdRmn7zKUmd7kOFeMX8Qx0?e=xBYaau):
   - Vendor-wise Sales and Margins
   - Inventory Turnover
   - Purchase Contribution %
